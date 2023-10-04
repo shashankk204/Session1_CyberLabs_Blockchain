@@ -1,0 +1,10 @@
+Basic Bash command:
+    cd :d  ..(back)  ~(root)  <directory>-change directory 
+    mkdir <folder_name>-make folder 
+    touchs <filename>-creates files
+    ls  -a(hidden files)
+git command:
+    git init
+    git add .
+    git status ---untract, staged 
+    git branch -M <new branch_name>
