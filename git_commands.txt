@@ -20,4 +20,5 @@ git command:
     git diff
     git clone <link_alien_repo>
 fork
+.gitignore
 ----------------------------------------------------------------------------------
