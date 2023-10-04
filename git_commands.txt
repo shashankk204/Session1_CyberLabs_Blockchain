@@ -1,0 +1,23 @@
+
+
+Basic Bash command:
+    cd d:  ..(back)  ~(root)  <directory> ---change directory 
+    mkdir <folder_name> ---make folder 
+    touchs <filename> ---creates files
+    ls  -a(hidden files)
+git command:
+    git init
+    git add .
+    git status ---untract, staged 
+    git branch -M <new branch_name>
+    git remote add origin <link>
+    git commit -m "commit message"
+    git push origin <branch_name>
+    git pull origin <main>
+    git branch ---list branch
+    git branch <new_branch_name> 
+    git checkout <different branch_name>
+    git diff
+    git clone <link_alien_repo>
+fork
+----------------------------------------------------------------------------------
