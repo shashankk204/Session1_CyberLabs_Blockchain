@@ -9,7 +9,7 @@ git command:
     git init
     git add .
     git status ---untract, staged 
-    git branch -M <new branch_name>
+    git branch -M <rename the branch name>
     git remote add origin <link>
     git commit -m "commit message"
     git push origin <branch_name>
