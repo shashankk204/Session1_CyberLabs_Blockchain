@@ -26,8 +26,9 @@ git command:
     git clone <link_alien_repo>
     git reset <file name> -----removes the from staging area
     git reset
-    git reset Head~<i> ------- reset to ith commit
-    git reset commit <commit hash>
+    git reset Head~<i> ------- goes to ith commit from back
+    git reset <commit hash> ----------goes to a commit with given hash
+    git reset --hard <commit hash>  -----------goes to commit to the given hash and also the state of file changes to given one
     git log ---- to get commit history
 fork
 .gitignore
