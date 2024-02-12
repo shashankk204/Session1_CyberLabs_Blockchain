@@ -1,5 +1,6 @@
-
-
+Configure Git:
+git config --global user.email "your_email@example.com"
+git config --global user.name "Your_name"
 Basic Bash command:
     cd d:  ..(back)  ~(root)  <directory> ---change directory 
     mkdir <folder_name> ---make folder 
@@ -11,17 +12,24 @@ git command:
     git status ---untract, staged 
     git branch -M <rename the branch name>
     git remote add origin <link>
+    git remote -v
     git commit -m "commit message"
     git push origin <branch_name>
-    git pull origin <main>
+    git pull origin <branch name>
     git branch ---list branch
     git branch <new_branch_name> 
+    git branch -d <branch name>
     git checkout <different branch_name>
-    git diff
+    git branch -M <New Branch Name>
+    git diff <branch name>
+    git merge <other Branch Name>
     git clone <link_alien_repo>
+    git reset <file name> -----removes the from staging area
+    git reset
+    git reset Head~<i> ------- reset to ith commit
+    git reset commit <commit hash>
+    git log ---- to get commit history
 fork
 .gitignore
 ----------------------------------------------------------------------------------
-vercel
-    npm i -g vercel
     
